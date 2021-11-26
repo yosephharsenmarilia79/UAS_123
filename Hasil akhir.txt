@@ -1,0 +1,6 @@
+English                       en                            Hello, how are you?           
+German                        de                            Guten Tag, wie geht es dir?   
+French                        fr                            Allo comment vas-tu?          
+Hindi                         hi                            नमस्कार क्या हालचाल हैं?      
+Tagalog                       tl                            Hallo, apa kabar              
+Norwegian                     no                            Hallo, hvordan går det?       
